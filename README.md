@@ -13,7 +13,7 @@
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
  
-<a href="www.linkedin.com/in/akshayc112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-kumar682" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshay-chavan-a964a2257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-kumar682" height="30" width="40" /></a>
 <a href = 'https://github.com/akshaychavan010101'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
