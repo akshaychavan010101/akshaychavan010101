@@ -2,7 +2,7 @@
 , I'm Akshay Chavan</h1>
 <h3 align="center">< Full Stack Web Developer/></h3>
 
-<img src="https://media.giphy.com/media/QBY1ne696MhtE9bCGS/giphy.gif" height="300" width="300" align="center" /><img src="https://www.wallpapermaiden.com/image/2021/04/25/coding-programming-simple-code-conditional-programming-technology-44326.png" alt="github-img1" border="0" width="500" height="300" align="center" >
+<img src="https://media.giphy.com/media/QBY1ne696MhtE9bCGS/giphy.gif" height="300" width="400" align="center" /><img src="https://www.wallpapermaiden.com/image/2021/04/25/coding-programming-simple-code-conditional-programming-technology-44326.png" alt="github-img1" border="0" width="500" height="300" align="center" >
 
 - 🔭 I’m currently working on my skills building @MASAI
 - 🌱 I’m currently learning "Node.js" | "Express.js" | "MongoDB" | "Mongoose"
