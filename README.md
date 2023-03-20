@@ -26,8 +26,7 @@ Here are some ideas to get you started:-->
 
 ✔️ Currently looking for opportunities as a Full Stack developer to help me learn and grow as a web developer.
 <hr/>
-## Have a look at my Portfolio
-<a href="https://akshaychavan010101.github.io/">Click Me</a>
+
 
 <h2>languge and tools</h2>
 <h5>HTML , CSS ,SCSS, javascript , NPM,bootstrap,Wordpress,css animation,gitbash,React basics, UI,TypeScript,Node.js Express.js, MongoDB</h5>
@@ -73,6 +72,8 @@ Here are some ideas to get you started:-->
 
 
 <a href="https://www.linkedin.com/in/akshay-chavan-a964a2257" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
+<a href="https://akshaychavan010101.github.io/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 <a href="https://akshaychavan010101.github.io" target="blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/270/270798.png"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </hr>
