@@ -11,8 +11,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img width="50%" align="right" alt="Github" border-radius="10px" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
 
-## Have a look of my Portfolio
-<a href="https://akshaychavan010101.github.io/">Click Me</a>
+
 
 </div>
 
@@ -27,6 +26,9 @@ Here are some ideas to get you started:-->
 
 ✔️ Currently looking for opportunities as a Full Stack developer to help me learn and grow as a web developer.
 <hr/>
+## Have a look at my Portfolio
+<a href="https://akshaychavan010101.github.io/">Click Me</a>
+
 <h2>languge and tools</h2>
 <h5>HTML , CSS ,SCSS, javascript , NPM,bootstrap,Wordpress,css animation,gitbash,React basics, UI,TypeScript,Node.js Express.js, MongoDB</h5>
 <div>
