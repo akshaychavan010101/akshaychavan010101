@@ -74,7 +74,7 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/akshay-chavan-a964a2257" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://akshaychavan010101.github.io/" target="blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/270/270798.png"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
-<h1><a href="https://akshaychavan010101.github.io/">Portfolio</a></h1>
+<a href="https://akshaychavan010101.github.io/">Portfolio</a>
 <a href="https://akshaychavan010101.github.io/" target="blank" ><img align="center" src="https://i.ibb.co/0MGgt0p/Pngtree-vector-portfolio-icon-4072879.png"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </hr>
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshaychavan010101&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<a href="http://www.github.com/chhavi48" align="center"><img src="https://github-readme-stats.vercel.app/api?username=akshaychavan010101&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishal 💁‍♂️🤷‍♂️ GitHub stats" /></a>
+<a href="http://www.github.com/chhavi48" align="center"><img src="https://github-readme-stats.vercel.app/api?username=akshaychavan010101&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akshay 💁‍♂️🤷‍♂️ GitHub stats" /></a>
 </hr>
 
 
