@@ -74,7 +74,8 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/akshay-chavan-a964a2257" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://akshaychavan010101.github.io/" target="blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/270/270798.png"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
-<a href="https://akshaychavan010101.github.io/">Portfolio</a>
+<a href="https://akshaychavan010101.github.io/" width="100px" >Portfolio</a>
+
 <a href="https://akshaychavan010101.github.io/" target="blank" ><img align="center" src="https://i.ibb.co/0MGgt0p/Pngtree-vector-portfolio-icon-4072879.png"  height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </hr>
 
