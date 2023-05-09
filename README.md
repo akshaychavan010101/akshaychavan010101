@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Akshay Chavan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-From Maharashtra, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+From Maharashtra, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
 
 I am skilled in HTML, CSS, JavaScript, React.js Basics ,Express.js, Node.js. I am good in data structure and algorithms.
 
